@@ -15,7 +15,7 @@ MODULE-1 (Durga Devi.S)
 Data Collection,
 Understanding data,
 Cleaning data,
-Interaction model.
+Load to s3 and IAM role.
 
 MODULE-2 (Gracelin.S)
 Data’s redirect to js code,
