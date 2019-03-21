@@ -8,9 +8,7 @@
 # ABSTRACT:
 The project “Smart Digital Assistant” is about generating data from several vehicles and store them in simple storage service(S3) and the data are fetched using lambda function and through interaction model alexa tells the data to the user when required.
 
-# Modules:
-There are 3 modules
-
+# MODULES:
 # MODULE-1 (Durga Devi.S)<br>
 # Data Collection
 Benchmark data's regarding tank capacities and mileage is collected from kaggle.com
@@ -21,12 +19,12 @@ select a whole data and click conditional formatting---->duplicates, then it wil
 In s3 services created a bucket(folder), upload a cleaned data and gave a permissions. In s3 we can create 'n' number of folders and can upload upto 5tb data.
 In IAM (identity access management) create a user and granting permissions.
 # MODULE-2 (Gracelin.S)<br>
-Data’s redirect to js code-data are fetched into lambda using js.
-Integrating js code into Lambda fuction-created two intents and called them using fuctions and trained alexa using sdk.
+# Data’s redirect to js code 
+data are fetched into lambda using js.
+# Integrating js code into Lambda fuction
+created two intents and called them using fuctions and trained alexa using sdk.
 # MODULE-3 (Akksaya Rajasri.G.P)<br>
-Connecting 
-Lambda function and Alexa developers console
-And test them.
+# Connecting Lambda function and Alexa developers console And test them.
 created invocation name,created two intents,creted slot and slot types and connected the endpoints.
 
 # PROPOSED SYSTEM:
