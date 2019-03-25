@@ -41,6 +41,12 @@ Accuracy,
 Result to be received very quickly,
 To speed up the operation.
 
+# Demo Video
+
+https://www.youtube.com/watch?v=mgpw-Qs-Jxk&feature=youtu.be
+
+# Project Status
+ Completed(100%)
 
 
 
